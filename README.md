@@ -6,3 +6,8 @@ You also need pip for package manage so that you can install pandas and openxml 
 Remember to customize the insert query depending on your needs
 # Final step
 Using your favoriate IDE run the script 
+
+# Project 2 
+# Networks
+I have a simple tcp client and server sending just simple message and response
+
